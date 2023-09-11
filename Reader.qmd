@@ -1,0 +1,32 @@
+---
+title: "Reader"
+format: html
+editor: visual
+bibliography: 
+  - bib/ratings.bib
+  - bib/tripletransition.bib
+---
+
+## ratings.bib
+
+`bib/ratings.bib`
+
+-   IMDB ratings have a skewed distribution, and they should not be used on a nominal scale. [@de_mondragon_movie_ratings_imdb_2021].
+
+-   Online movie ratings are not perfect, but useful. A few ideas on how to make them more usable by Walt Hickey. [@hickey_suspicious_movie_ratings_2015].
+
+## tripletransition.bib
+
+`bib/tripletransition.bib`
+
+-   Towards a green, digital and resilient economy: our European Growth Model [@commission_towards_green_digital_resilient_2022]
+
+-   A new era for Europe: how the European Union can make the most of its pandemic recovery, pursue sustainable growth, and promote global stability [@european_commission_new_era_2022]
+
+-   Building a stronger Single Market for Europe's recovery. Annual Single Market Report 2021 [@european_commission_annual_single_market_report_2021]
+
+-   The Three MuskEUteers [@caro-gonzalez_three_muskeuteers_2023]
+
+-   Green Economy Project Management Cases [@krasniqi_green_project_management_2018]
+
+Triple transition [used to be](https://link.springer.com/chapter/10.1007/978-3-642-52404-2_2) a buzzword for a different transition.

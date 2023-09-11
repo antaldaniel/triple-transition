@@ -1,0 +1,15 @@
+---
+title: "Triple Transition"
+format: html
+editor: visual
+bibliography:  
+  - bib/tripletransition.bib
+---
+
+-   Towards a green, digital and resilient economy: our European Growth Model [@commission_towards_green_digital_resilient_2022]
+
+-   A new era for Europe: how the European Union can make the most of its pandemic recovery, pursue sustainable growth, and promote global stability [@european_commission_new_era_2022]
+
+-   Building a stronger Single Market for Europe's recovery. Annual Single Market Report 2021 [@european_commission_annual_single_market_report_2021]
+
+-   The Three MuskEUteers [@caro-gonzalez_three_muskeuteers_2023]

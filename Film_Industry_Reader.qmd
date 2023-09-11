@@ -1,0 +1,17 @@
+---
+title: "Film Industry Reader"
+format: html
+editor: visual
+bibliography: 
+  - bib/ratings.bib
+---
+
+## Quality issues
+
+-   IMDB ratings have a skewed distribution, and they should not be used on a nominal scale. [@de_mondragon_movie_ratings_imdb_2021].
+
+    ![Distribution of IMDB ratings](https://distributionofthings.com/static/e697f96fd11f2f7da8bf38b2419d77d9/8aab1/imdb_movie_ratings_distribution.webp)
+
+-   Online movie ratings are not perfect, but useful. A few ideas on how to make them more usable by Walt Hickey. [@hickey_suspicious_movie_ratings_2015].
+
+![Normalized rating distribution of 146 films in theatres in 2015 that had 30+ reviews on Fandango.com](https://fivethirtyeight.com/wp-content/uploads/2015/10/hickey-datalab-fandango-2.png?w=610){fig-align="center"}
