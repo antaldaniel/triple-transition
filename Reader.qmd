@@ -15,6 +15,10 @@ bibliography:
 
 -   Online movie ratings are not perfect, but useful. A few ideas on how to make them more usable by Walt Hickey. [@hickey_suspicious_movie_ratings_2015].
 
+-   Access the IMDb public datasets to see ratings distribution [@kanevsky_r_bloggers_imdb_2021]
+
+-   IMDb Non-Commercial Datasets [@imdb_non-commercial_datasets_2023]
+
 ## tripletransition.bib
 
 `bib/tripletransition.bib`
