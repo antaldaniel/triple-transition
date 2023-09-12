@@ -19,6 +19,7 @@ bibliography:
   - bib/accesstofinance.bib
   - bib/digitisation.bib
   - bib/tripletransition.bib
+  - bib/slovakia.bib
 
 ---
 
