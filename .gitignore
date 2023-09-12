@@ -1,11 +1,21 @@
 # History files
 .Rhistory
 .Rapp.history
+
 # Session Data files
 .RData
 .RDataTmp
+
 # User-specific files
 .Ruserdata
+Film_Industry_Reader.html
+Triple_Transition.html
+Reader.html
+Film_Industry_Reader_files/
+Reader_files/
+Triple_Transition_files/
+not_included/
+
 # Example code in package build process
 *-Ex.R
 # Output files from R CMD build
@@ -33,10 +43,5 @@ docs/
 po/*~
 # RStudio Connect folder
 rsconnect/
-Film_Industry_Reader.html
-Triple_Transition.html
-Reader.html
-Film_Industry_Reader_files/
-Reader_files/
-Triple_Transition_files/
-not_included/
+
+/.quarto/
