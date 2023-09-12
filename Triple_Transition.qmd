@@ -72,6 +72,26 @@ While the direct health and mortality effects were more severe for older adults,
 
 > Different types of work forms during COVID-19 raise questions about the employment status of these different types of workers and often their lack of employment protection. This includes a lack of clarity on working conditions, notice periods, vacation or sick pay, minimum wage, health and safety standards, as well as on organised representation or protection. Non-standard and unfavourable working times or long or sporadic hours can in turn limit workers' flexibility and autonomy. Other drawbacks are lack of transparency for platform workers on algorithm automating tasks or unpaid work while waiting for bids or tasks.[@european_commission_new_era_2022, p. 106.]
 
+## Session 1 Data infrastructure (Daniel Antal, CFA) {#session1}
+
+- Overview of the Open Policy Analysis
+- Overview of our planned Data infrastructure (the DMP must be public!)
+- Slovak Music Industry Register (see [here](https://music.dataobservatory.eu/documents/open_music_europe/economy/report/report.html#music-industry-registers))
+- Comprehensive Slovak Music Industry Database (in technical terms)
+- The indicator candidates must be changed before we go into the discussion, because this part is misleading.  These are not indicator candidates, but pre-existing indicators. The pre-existing indicators should be better documented (i.e. what is their data sources, and how they are calculated from the data), and our proposals should be added here.
+
+## Session 2: Survey Harmonization (Dr James Rhys Edwards) {#session2}
+
+- What type of individual and enterprise, mixed surveys are planned?
+[Economy of music in Europe: Novel data collection methods and indicators](https://music.dataobservatory.eu/documents/open_music_europe/economy/report/report.html#survey-data)
+
+- Which surveys do we want to harmonize and how? 
+
+## Session 3: Comprehensive Slovak Music Database, Listen Local (Tomaš Mikš) {#session3}
+
+- Slovak Music Industry Register (in non-technical terms)
+- Comprehensive Slovak Music Industry Database (in non-technical terms)
+
 ## Reader
 
 ### Tripe transition
@@ -92,5 +112,9 @@ While the direct health and mortality effects were more severe for older adults,
 -  2030 Digital Transformation Strategy for Slovakia [@2030_digital_transformation_slovakia_en_2019; 2030_digital_transformation_slovakia_sk_2019]
 
 - Digital Economy and Society Index (DESI), country report on Slovakia [@desi_slovakia_2022]
+
+
+## Sectorial policies
+- Stratégia kultúry a kreatívneho priemyslu Slovenskej republiky 2030. [Strategy of the cultural and creative industries of the Slovak Republic 2030.] [@slovak_cci_strategy_2023]
 
 
