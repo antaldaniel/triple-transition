@@ -1,8 +1,21 @@
 ---
 title: "Film Industry Reader"
 format: html
+author:
+  - name: Daniel Antal
+    orcid: 0000-0003-1689-0557
+toc: true
+lang: en-GB
+date: today
+papersize: A4
+subject: Film business
+keywords:
+  - Indicators
+  - Triple transition
+  - Bibliography
 editor: visual
 bibliography: 
+  - bib/digitisation.bib
   - bib/ratings.bib
 ---
 

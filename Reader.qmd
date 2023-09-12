@@ -1,6 +1,19 @@
 ---
 title: "Reader"
 format: html
+author:
+  - name: Daniel Antal
+    orcid: 0000-0003-1689-0557
+toc: true
+lang: en-GB
+date: today
+papersize: A4
+subject: Music business
+keywords:
+  - Indicators
+  - Triple transition
+  - Open Music Europe
+  - Bibliography
 editor: visual
 bibliography: 
   - bib/ratings.bib
