@@ -64,13 +64,33 @@ The music industry---like most creative industries---is an almost fully digitise
 Digitisation provides a constant measurement problem. Measuring work or income on and from platforms is challenging, and the tools need further development to measure the informal economy.
 Many of the problems we deal with (we'll get back to this in Session 3---Listen Local) is that even though Slovak creatives and their enterprises are forerunners in digitisation, their lack of skills results in significant loss of revenue and market position. 
 
-## Social transition
+### Social transition
 
 While the direct health and mortality effects were more severe for older adults, the economic impacts were more profound for younger workers and the lower educated (Dowd et al., 2020b). Graph 21 shows the disproportionate impact on employment for youth (Graph 21a), the lower-skilled (Graph 21b), women (Graph 21c) and those in temporary contracts and self-employed (Graph 21d).
 
 > COVID-19 was linked to a proliferation of new forms of employment, which \> blur formal employer-employee relations, transform working patterns and times, \> organisation, the location of work and the use of ICT. \[...\] New forms of employment include multiple types of arrangements, including platform work where supply and demand is matched on online platforms where workers using the apps are mostly freelancers. The pandemic brought some increase in platform workers, with demand for delivery services growing during the lockdown and many platforms expanding their scope. \[...\] There has also been a growth in portfolio work of freelancers or small self-employed workers with a large number of clients. As of 2020, ICT-based mobile work, platform work and solo self-employed workers and freelancers and co-working in collaborative employment were prevalent across Europe (Eurofound, 2020b). Collaborative employment refers to self- employed people working beyond traditional supply chains and involves cooperation and networking. [@european_commission_new_era_2022, p. 101-103.]
 
 > Different types of work forms during COVID-19 raise questions about the employment status of these different types of workers and often their lack of employment protection. This includes a lack of clarity on working conditions, notice periods, vacation or sick pay, minimum wage, health and safety standards, as well as on organised representation or protection. Non-standard and unfavourable working times or long or sporadic hours can in turn limit workers' flexibility and autonomy. Other drawbacks are lack of transparency for platform workers on algorithm automating tasks or unpaid work while waiting for bids or tasks.[@european_commission_new_era_2022, p. 106.]
+
+Social sustainability is often grouped into four areas: 
+- Quality of life
+- Social Cohesion
+- Democracy & Governance
+- Diversity and Equality
+
+Our work program is targeting Diversity and Equal Opportunities, which have an impact on Social Cohesion and intersect with governance, for example, via equal opportunities for career and in representation on governance boards for women.
+
+We believe that Diversity is the most relevant for cultural policy and the cultural and creative industry policies, because cultural diversity is primary goal of the sectorial policies.
+
+Policy indicators
+
+Sustainability indicators:
+
+The ESRS Social Sustainability and Governance standards all include diversity aspects. For example, equal opportunities for women must secured (and measured) in the own workforce, in the value chain, in the affected communities and among end-users, too.
+
+In the European music industry, there is a vocal demand for respecting diversity in gender and sexual appearance terms. In Slovakia, and in many countries of Europe, the dimension of national origin also plays an important role, and these will be important pillars of our Slovak Comprehensive Music Database that feeds into our Listen Local initiative. We want to ensure that the people of Kosice or the people of Slovakia get equal access to  
+
+
 
 ## Session 1 Data infrastructure (Daniel Antal, CFA) {#session1}
 
