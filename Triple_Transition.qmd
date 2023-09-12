@@ -3,13 +3,81 @@ title: "Triple Transition"
 format: html
 editor: visual
 bibliography:  
+  - bib/accesstofinance.bib
+  - bib/digitisation.bib
   - bib/tripletransition.bib
+
 ---
+
+## Open Music Europe Policy Agenda: Triple Transition
+
+After the COVID-19 pandemic, the current European strategic policies are increasingly discussed under the 'triple transition' term, which refers to approaches in climate issues ("green transition"), technology ("digital transition") and the underlying shape of its society ("social transition"). These are highly relevant to our work because these horizontal policies guide public investment, have new rules on private investment spending, and foresee changes in economic and tax policies. The EU's cultural programme Creative Europe already follows the triple transition framework. 
+
+> "To set a course for the New Era scenario, Europe must simultaneously begin to overhaul the way it approaches climate issues, technology and the underlying shape of its society. This triple transition of green, digital and social factors will need to anchor policymaking at almost every level. Finance, education and institution building will all need to be mobilised, with a constant eye toward improving and sustaining trust in the European project." -- [@european_commission_new_era_2022, p. 24.]
+
+> There were severe job losses and furlough in the service sectors, including arts and culture, hotels and restaurants, sports, leisure, retail trade, transport and tourism-related industries, often more damaging to small and medium-size enterprises (European Commission, 2020d; International Labour Organization, 2021) [@european_commission_new_era_2022, p. 96.]
+
+
+To implement and monitor these triple transition policies, the EU has introduced the CSRD Directive (which must be transposed into Slovak national law by July 2023) and makes it mandatory for large companies to introduce integrated (connected) financial and ESG reporting. With the CSRD, the EU adds the new European Sustainability Reporting Standards to the existing financial accounting standards. The first not industry-specific drafts are already available, and the industry-specific ESRS that applies to the music, film, television, media and most creative industries will be developed in 2024/25.
+
+While the CSRD Directive directly applies to the 49,000 large European Union companies, it is unlikely that any creative enterprise will be directly addressed in the Slovak Republic; the music industry and most creative industries will be indirectly affected. While the music businesses will not face a reporting requirement towards the public authorities, they can gain revenues (sales, sponsoring, donations and grants) only if they adhere to environmental, social and government reporting standards. In some ways, creative enterprises already feel the change when they must create Gender Equality Plans for various EU grant applications.
+
+Participating in the triple transition is a critical strategic challenge for the music industry, which has chronically suffered from low access to private funds [@suvey_access_finance_culture_2013], and unless it prepares for sustainability measurement, will increase its difficulties for attracting both private and public funds that will be increasingly tied to ESG (environmental, social and governance) requirements. Making the creative and, more generally, service industries capable of accessing green finance (which will be the dominant form of financing in the EU) is the key to successful access to bank loans, investments, and participation in EU grant programs, for example, in the Creative Europe program.
+
+We are working on measurement tools and a music economics research program that allows recording information more precisely on the music and creative sectors in a highly informal setting. We will talk about this in the next three, more practical sessions. 
+
+- In Session 1 on building a voluntary and open statistical infrastructure that can connect to the official statistical infrastructure of the Slovak Republic. 
+
+- In Session 2, we will discuss the necessity of connecting the economic, financial, environmental and social measurements on a public policy and an individual business level. For this reason, we suggest a more thorough survey harmonisation. 
+
+- Session 3 will partly relate to the economic and social components of sustainability. 
+
+
+### Green transition
+
+In this decade, a significant investment under the European Green Deal Program (financed mainly by the EU budget and the RFF), roughly 1 trillion euros, will be available to put the European economy on a path to net zero. The EU's sustainable finance policies made and continue making significant changes in banking, insurance, investment and accounting law to make brown financing more expensive and "green financing" cheaper because at least half of the green transition investments must be financed by the private sector. The EU encourages financing, insurance and investment in greening the economy by making it
+less attractive to invest into polluting technologies and industries. While reducing greenhouse gases remains the top priority, the green transition also entails more sustainable water, natural resources, land and marine ecosystem use. The green transition corresponds to several UN SDGs, namely, `SDG7` Affordable and clean energy, `SDG13` Climate Action, `SDG14` Life below water, `SDG15` Life on land.
+
+While `Open Music Europe` is not focused on greening the music sector, the green transition is present in every strategic policy of the European Union and we indirectly deal with several data and measurement gaps that blocks the green transition and the access to finance in the music, and the wider creative industries. 
+
+
+### Digitisation
+
+The main policy instrument of the European Union in terms of digitisation is the Digital Europe Programme [@eu_regulation_2021-694]; the relevant nationa policy for digitisation is the _2030 Digital Transformation Strategy for Slovakia_ [@2030_digital_transformation_slovakia_en_2019; @2030_digital_transformation_slovakia_sk_2019]. The latest assessment of the European Commission places the country in the lower tier of the EU countries in terms of this policy. The EU Digital Economy and Society Index (DESI) summarises digital performance and tracks progress of EU countries since 2014.  Our key countries are all, i.e., Hungary (22), Slovakia (23) and Bulgaria (26) are in the lower tier of the EU.
+
+According to the Slovak country report [@desi_slovakia_2022], "[d]igital transformation is one of the main components of the Slovak RRP. Component 17 - ‘Digital Slovakia (state in the mobile, cybersecurity, fast internet for everyone, digital economy’) clearly stands out as the main contributor to achieving the digital target, followed by digital investments in education, research & innovation, and sustainable transport. [...] Slovakia ranks 21st in the EU on integration of digital technology by enterprises."
+
+The music industry---like most creative industries---is an almost fully digitised industry, even though the Slovak digitisation strategy not only does not recognize the cultural and creative industries among its priority areas, but has no words for either creators or culture. Nevertheless, we believe that the music industry can serve as laboratory to measure the half-way progress in this strategy, and to cope with the employment, tax, economic and education policy challenges it is posing with innovative measurement. In music, the recorded side of the business would be excluded from sophisticated global platforms like YouTube or Spotify if it could not operate in such an environment. International festivals also do business in a highly digitised manner. In this regard, the music industry can be a laboratory of evidence-based policies. 
+Digitisation provides a constant measurement problem. Measuring work or income on and from platforms is challenging, and the tools need further development to measure the informal economy.
+Many of the problems we deal with (we'll get back to this in Session 3---Listen Local) is that even though Slovak creatives and their enterprises are forerunners in digitisation, their lack of skills results in significant loss of revenue and market position. 
+
+## Social transition
+
+While the direct health and mortality effects were more severe for older adults, the economic impacts were more profound for younger workers and the lower educated (Dowd et al., 2020b). Graph 21 shows the disproportionate impact on employment for youth (Graph 21a), the lower-skilled (Graph 21b), women (Graph 21c) and those in temporary contracts and self-employed (Graph 21d).
+
+> COVID-19 was linked to a proliferation of new forms of employment, which \> blur formal employer-employee relations, transform working patterns and times, \> organisation, the location of work and the use of ICT. \[...\] New forms of employment include multiple types of arrangements, including platform work where supply and demand is matched on online platforms where workers using the apps are mostly freelancers. The pandemic brought some increase in platform workers, with demand for delivery services growing during the lockdown and many platforms expanding their scope. \[...\] There has also been a growth in portfolio work of freelancers or small self-employed workers with a large number of clients. As of 2020, ICT-based mobile work, platform work and solo self-employed workers and freelancers and co-working in collaborative employment were prevalent across Europe (Eurofound, 2020b). Collaborative employment refers to self- employed people working beyond traditional supply chains and involves cooperation and networking. [@european_commission_new_era_2022, p. 101-103.]
+
+> Different types of work forms during COVID-19 raise questions about the employment status of these different types of workers and often their lack of employment protection. This includes a lack of clarity on working conditions, notice periods, vacation or sick pay, minimum wage, health and safety standards, as well as on organised representation or protection. Non-standard and unfavourable working times or long or sporadic hours can in turn limit workers' flexibility and autonomy. Other drawbacks are lack of transparency for platform workers on algorithm automating tasks or unpaid work while waiting for bids or tasks.[@european_commission_new_era_2022, p. 106.]
+
+## Reader
+
+### Tripe transition
 
 -   Towards a green, digital and resilient economy: our European Growth Model [@commission_towards_green_digital_resilient_2022]
 
--   A new era for Europe: how the European Union can make the most of its pandemic recovery, pursue sustainable growth, and promote global stability [@european_commission_new_era_2022]
+-   A new era for Europe: how the European Union can make the most of its pandemic recovery, pursue sustainable growth, and promote global stability. Strategic policy document by the High-Level Group on Post-Covid Economic and Social Challenges [@european_commission_new_era_2022]
 
 -   Building a stronger Single Market for Europe's recovery. Annual Single Market Report 2021 [@european_commission_annual_single_market_report_2021]
 
 -   The Three MuskEUteers [@caro-gonzalez_three_muskeuteers_2023]
+
+
+## Digitisation
+
+- Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme [@eu_regulation_2021-694]
+
+-  2030 Digital Transformation Strategy for Slovakia [@2030_digital_transformation_slovakia_en_2019; 2030_digital_transformation_slovakia_sk_2019]
+
+- Digital Economy and Society Index (DESI), country report on Slovakia [@desi_slovakia_2022]
+
+
