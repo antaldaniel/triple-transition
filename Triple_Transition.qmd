@@ -24,6 +24,13 @@ bibliography:
 
 ## Open Music Europe Policy Agenda: Triple Transition
 
+::: {.callout-tip}
+## Edit, comment, question
+
+You can edit this document, make suggestions, or add questions [here](https://github.com/antaldaniel/triple-transition).
+
+:::
+
 ## Policy Agenda Introduction
 
 After the COVID-19 pandemic, policymakers in Europe increasingly discuss the strategic public policy agenda under the 'triple transition' term, which refers to approaches in climate issues ("green transition"), technology ("digital transition") and the underlying shape of its society ("social transition"). We will use this terminology because it is highly relevant to our work. Since the " triple transition" is a top-level and horizontal policy framework, we can also discuss the Slovak cultural strategy (together with other Slovak policies, such as the digitisation strategy) in a shared framework with the EU policies. We can easily adjust the Slovak policy document's contents under these terms.
@@ -32,7 +39,7 @@ The "triple transition" is highly relevant to our work because these horizontal 
 
 The triple transition requires policy reforms and investments in structural adjustments. The European Union, through its normal budget and the post-COVID RFF, already committed more than 1 trillion euros over a decade into these investments, and at the same time, changed the rules for private investment, which will channel further private money into this direction.
 
-[![Schema of the European Growth Model](https://eur-lex.europa.eu/resource.html?uri=comnat:COM_2022_0083_FIN.ENG.xhtml.COM_2022_0083_FIN_ENG_02002.jpg){fig-align="center"}](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52022DC0083&qid=1655798743597)
+![Schema of the European Growth Model](jpg/comnat_COM_2022_0083_FIN.ENG.xhtml.COM_2022_0083_FIN_ENG_02002.jpg){fig-align="center"}
 
 The triple transition is an excellent opportunity for the CCSIs, particularly the music industry, to become more competitive, sustainable and resilient. They can more easily meet the requirements for sustainable financing than most industries and turn their previous disadvantage in attracting financing into an advantage. On the public policy level, if we can help the Slovak CCSIs meet the requirements for these massive investments, the Slovak cultural policy can mobilise apart from the limited national public budgets, significant EU public investment and private investment. This way, the means of the current Slovak cultural strategy can be increased.
 
@@ -46,21 +53,41 @@ The **green transition** offers huge investments into restructuring the current 
 
 The **social transition** entails many things, and in Open Music Europe, we chose a few of them which are particularly important for the music industry. The problem of informality, or the prevalence of informal working relations and informal enterprises in music, is relevant for the music economy and its social sustainability because working conditions, social protection and anti-discrimination measures are far more difficult or impossible to monitor and enforce in the informal economy. 
 
--   In the post-Covid economy, often named the "platform economy", the informal work typical in music for at least ten years (since we measure it) appeared outside the cultural sector in many parts of the Slovak economy. Our measurement innovations and proposals are relevant far beyond the scope of the music industry or CCSIs; the music industry can be a laboratory for highly relevant labour or tax policy work.  
+-   In the post-Covid economy, often named the "platform economy", the informal work typical in music for at least ten years (since we measure it) appeared outside the cultural sector in many parts of the Slovak economy. Our measurement innovations and proposals are relevant far beyond the scope of the music industry or CCSIs; the music industry can be a laboratory for highly relevant labour or tax policy work.
 
--   We have an entire work package dedicated to the issue of diversity because diversity is not an important topic in environmental, social and corporate governance reforms. Diversity is a crucial target of cultural policies, for example, by ensuring that Slovak music can be heard on radio or streaming platforms. 
+-   We have an entire work package dedicated to the issue of diversity because diversity is not an important topic in environmental, social and corporate governance reforms. Diversity is a crucial target of cultural policies, for example, by ensuring that Slovak music can be heard on radio or streaming platforms.
 
 -   Measuring elements of social sustainability intersect with the economic/labour policy goals of reducing informality at work and increasing the visibility of Slovak culture abroad at home. We will discuss these topics in Session 2 and 3.
 
-The **digital transition** is a crucial European and Slovak policy which so far has been isolated on the Slovak level from the cultural strategy. The official digitisation strategy of Slovakia does not say a single word about the CCSIs and has no cultural or creative industry-specific priorities or actions. 
+The **digital transition** is a crucial European and Slovak policy which so far has been isolated on the Slovak level from the cultural strategy. The official digitisation strategy of Slovakia does not say a single word about the CCSIs and has no cultural or creative industry-specific priorities or actions.
 
 -   The creative industry, particularly the music industry, is far more digitised than the rest of the Slovak economy, according to the latest DESI assessment. Since the main sales configuration of music is music- and video streaming on global platforms, the Slovak music industry had to cope with far more accelerated digitisation than the rest of the economy.
 
 -   Our previous research showed that the music industry faced earlier the adverse effects of digitisation, particularly a lack of skills and competitiveness to work with big data, large amounts of data, and various forms of AI. Again, the music industry could be a laboratory of the problems of the Slovak digitisation strategy, particularly the digitisation problems of SMEs (all of the Slovak music industry consists of micro-, small-, and medium-sized enterprises.)
 
--   The creation of the planned Slovak Comprehensive Music Database, the Slovak Music Industry Register, and our Listen Local program offer a way to simultaneously deal with significant cultural and digitisation policy challenges. We want to redesign the local content policies (i.e., radio quotas) for broadcasters to global streaming platforms to ensure a visible presence for Slovak music both within Slovakia and abroad. 
+-   The creation of the planned Slovak Comprehensive Music Database, the Slovak Music Industry Register, and our Listen Local program offer a way to simultaneously deal with significant cultural and digitisation policy challenges. We want to redesign the local content policies (i.e., radio quotas) for broadcasters to global streaming platforms to ensure a visible presence for Slovak music both within Slovakia and abroad.
 
-## Background
+## Session 1 Data infrastructure (Daniel Antal, CFA) {#session1}
+
+-   Overview of the Open Policy Analysis
+-   Overview of our planned Data infrastructure (the DMP must be public!)
+-   Slovak Music Industry Register (see [here](https://music.dataobservatory.eu/documents/open_music_europe/economy/report/report.html#music-industry-registers))
+-   Comprehensive Slovak Music Industry Database (in technical terms)
+-   The indicator candidates must be changed before we go into the discussion, because this part is misleading. These are not indicator candidates, but pre-existing indicators. The pre-existing indicators should be better documented (i.e. what is their data sources, and how they are calculated from the data), and our proposals should be added here.
+
+## Session 2: Survey Harmonization (Dr James Rhys Edwards) {#session2}
+
+-   What type of individual and enterprise, mixed surveys are planned? [Economy of music in Europe: Novel data collection methods and indicators](https://music.dataobservatory.eu/documents/open_music_europe/economy/report/report.html#survey-data)
+
+-   Which surveys do we want to harmonize and how?
+
+## Session 3: Comprehensive Slovak Music Database, Listen Local (Tomaš Mikš) {#session3}
+
+-   Slovak Music Industry Register (in non-technical terms)
+-   Comprehensive Slovak Music Industry Database (in non-technical terms)
+
+
+## Background Information
 
 > "To set a course for the New Era scenario, Europe must simultaneously begin to overhaul the way it approaches climate issues, technology and the underlying shape of its society. This triple transition of green, digital and social factors will need to anchor policymaking at almost every level. Finance, education and institution building will all need to be mobilised, with a constant eye toward improving and sustaining trust in the European project." -- [@european_commission_new_era_2022, p. 24.]
 
@@ -116,24 +143,6 @@ The ESRS Social Sustainability and Governance standards all include diversity as
 
 In the European music industry, there is a vocal demand for respecting diversity in gender and sexual appearance terms. In Slovakia, and in many countries of Europe, the dimension of national origin also plays an important role, and these will be important pillars of our Slovak Comprehensive Music Database that feeds into our Listen Local initiative. We want to ensure that the people of Kosice or the people of Slovakia get equal access to
 
-## Session 1 Data infrastructure (Daniel Antal, CFA) {#session1}
-
--   Overview of the Open Policy Analysis
--   Overview of our planned Data infrastructure (the DMP must be public!)
--   Slovak Music Industry Register (see [here](https://music.dataobservatory.eu/documents/open_music_europe/economy/report/report.html#music-industry-registers))
--   Comprehensive Slovak Music Industry Database (in technical terms)
--   The indicator candidates must be changed before we go into the discussion, because this part is misleading. These are not indicator candidates, but pre-existing indicators. The pre-existing indicators should be better documented (i.e. what is their data sources, and how they are calculated from the data), and our proposals should be added here.
-
-## Session 2: Survey Harmonization (Dr James Rhys Edwards) {#session2}
-
--   What type of individual and enterprise, mixed surveys are planned? [Economy of music in Europe: Novel data collection methods and indicators](https://music.dataobservatory.eu/documents/open_music_europe/economy/report/report.html#survey-data)
-
--   Which surveys do we want to harmonize and how?
-
-## Session 3: Comprehensive Slovak Music Database, Listen Local (Tomaš Mikš) {#session3}
-
--   Slovak Music Industry Register (in non-technical terms)
--   Comprehensive Slovak Music Industry Database (in non-technical terms)
 
 ## Reader
 
@@ -147,7 +156,9 @@ In the European music industry, there is a vocal demand for respecting diversity
 
 -   The Three MuskEUteers [@caro-gonzalez_three_muskeuteers_2023]
 
-## Digitisation
+-   Slovakia's Vision and Development Strategy 2030 - a long-term strategy for sustainable development \[@slovak_sdg_strategy_2020\]
+
+### Digitisation
 
 -   Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme [@eu_regulation_2021-694]
 
@@ -155,6 +166,6 @@ In the European music industry, there is a vocal demand for respecting diversity
 
 -   Digital Economy and Society Index (DESI), country report on Slovakia [@desi_slovakia_2022]
 
-## Sectorial policies
+### Cultural policies
 
 -   Stratégia kultúry a kreatívneho priemyslu Slovenskej republiky 2030. \[Strategy of the cultural and creative industries of the Slovak Republic 2030.\] [@slovak_cci_strategy_2023]
