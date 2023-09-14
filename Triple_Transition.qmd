@@ -27,11 +27,10 @@ bibliography:
 
 ## Open Music Europe Policy Agenda: Triple Transition
 
-::: {.callout-tip}
+::: callout-tip
 ## Edit, comment, question
 
-You can edit this document, make suggestions, or add questions [here](https://github.com/antaldaniel/triple-transition). See the accompanying [slides](https://music.dataobservatory.eu/documents/triple-transition/Open_Music_Europe_Workshop_20230921.html#/title-slide).
-
+You can edit this document, make suggestions, or add questions [here](https://github.com/antaldaniel/triple-transition). See the accompanying [slides](https://music.dataobservatory.eu/documents/triple-transition/Open_Music_Europe_Workshop_20230921.html#/title-slide). A separate note on bibliographic references and a [Reader](https://music.dataobservatory.eu/documents/triple-transition/Reader.html).
 :::
 
 ## Policy Agenda Introduction
@@ -89,7 +88,6 @@ The **digital transition** is a crucial European and Slovak policy which so far 
 -   Slovak Music Industry Register (in non-technical terms)
 -   Comprehensive Slovak Music Industry Database (in non-technical terms)
 
-
 ## Background Information
 
 > "To set a course for the New Era scenario, Europe must simultaneously begin to overhaul the way it approaches climate issues, technology and the underlying shape of its society. This triple transition of green, digital and social factors will need to anchor policymaking at almost every level. Finance, education and institution building will all need to be mobilised, with a constant eye toward improving and sustaining trust in the European project." -- [@european_commission_new_era_2022, p. 24.]
@@ -146,7 +144,6 @@ The ESRS Social Sustainability and Governance standards all include diversity as
 
 In the European music industry, there is a vocal demand for respecting diversity in gender and sexual appearance terms. In Slovakia, and in many countries of Europe, the dimension of national origin also plays an important role, and these will be important pillars of our Slovak Comprehensive Music Database that feeds into our Listen Local initiative. We want to ensure that the people of Kosice or the people of Slovakia get equal access to
 
-
 ## Reader
 
 ### Tripe transition
@@ -159,16 +156,22 @@ In the European music industry, there is a vocal demand for respecting diversity
 
 -   The Three MuskEUteers [@caro-gonzalez_three_muskeuteers_2023]
 
--   Slovakia's Vision and Development Strategy 2030 - a long-term strategy for sustainable development \[@slovak_sdg_strategy_2020\]
-
 ### Digitisation
 
 -   Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme [@eu_regulation_2021-694]
 
--   2030 Digital Transformation Strategy for Slovakia [@2030_digital_transformation_slovakia_en_2019; 2030_digital_transformation_slovakia_sk_2019]
-
 -   Digital Economy and Society Index (DESI), country report on Slovakia [@desi_slovakia_2022]
 
-### Cultural policies
+### Slovak policy documents
 
 -   Stratégia kultúry a kreatívneho priemyslu Slovenskej republiky 2030. \[Strategy of the cultural and creative industries of the Slovak Republic 2030.\] [@slovak_cci_strategy_2023]
+
+```{=html}
+<!-- -->
+```
+-   2030 Digital Transformation Strategy for Slovakia [@2030_digital_transformation_slovakia_en_2019; 2030_digital_transformation_slovakia_sk_2019]
+
+```{=html}
+<!-- -->
+```
+-   Slovakia's Vision and Development Strategy 2030 - a long-term strategy for sustainable development [@slovak_sdg_strategy_2020]

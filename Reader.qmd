@@ -20,18 +20,6 @@ bibliography:
   - bib/tripletransition.bib
 ---
 
-## ratings.bib
-
-`bib/ratings.bib`
-
--   IMDB ratings have a skewed distribution, and they should not be used on a nominal scale. [@de_mondragon_movie_ratings_imdb_2021].
-
--   Online movie ratings are not perfect, but useful. A few ideas on how to make them more usable by Walt Hickey. [@hickey_suspicious_movie_ratings_2015].
-
--   Access the IMDb public datasets to see ratings distribution [@kanevsky_r_bloggers_imdb_2021]
-
--   IMDb Non-Commercial Datasets [@imdb_non-commercial_datasets_2023]
-
 ## tripletransition.bib
 
 `bib/tripletransition.bib`
@@ -46,4 +34,21 @@ bibliography:
 
 -   Green Economy Project Management Cases [@krasniqi_green_project_management_2018]
 
+-   Slovakia's Vision and Development Strategy 2030 - a long-term strategy for sustainable development [@slovak_sdg_strategy_2020]
+
 Triple transition [used to be](https://link.springer.com/chapter/10.1007/978-3-642-52404-2_2) a buzzword for a different transition.
+
+### Digitisation
+
+-   Regulation (EU) 2021/694 of the European Parliament and of the Council of 29 April 2021 establishing the Digital Europe Programme [@eu_regulation_2021-694]
+
+-   2030 Digital Transformation Strategy for Slovakia [@2030_digital_transformation_slovakia_en_2019; 2030_digital_transformation_slovakia_sk_2019]
+
+-   Digital Economy and Society Index (DESI), country report on Slovakia [@desi_slovakia_2022]
+
+### Slovak policy documents
+`bib/slovakia.bib`
+
+-   Stratégia kultúry a kreatívneho priemyslu Slovenskej republiky 2030. \[Strategy of the cultural and creative industries of the Slovak Republic 2030.\] [@slovak_cci_strategy_2023]
+-   2030 Digital Transformation Strategy for Slovakia [@2030_digital_transformation_slovakia_en_2019; 2030_digital_transformation_slovakia_sk_2019]
+-   Slovakia's Vision and Development Strategy 2030 - a long-term strategy for sustainable development [@slovak_sdg_strategy_2020]
