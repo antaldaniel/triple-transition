@@ -25,7 +25,7 @@ Session 2: [Harmonizing data collection with surveys](Open_Music_Europe_Workshop
 
 ☕
 
-Session 3: [Listen Local Slovakia]/Open_Music_Europe_Workshop_20230921.html#/listen-local-slovakia)
+Session 3: [Listen Local Slovakia](Open_Music_Europe_Workshop_20230921.html#/listen-local-slovakia)
 
 🌆 Informal dinner (optional)
 
@@ -44,7 +44,7 @@ You can edit this presentation, make suggestions, or add questions [here](https:
 
 -   A new era for Europe: how the European Union can make the most of its pandemic recovery, pursue sustainable growth, and promote global stability. Strategic policy document by the High-Level Group on Post-Covid Economic and Social Challenges [@european_commission_new_era_2022]
 
--   Slovakia's Vision and Development Strategy 2030 - a long-term strategy for sustainable development [@slovak_sdg_strategy_2020]
+-   Slovakia's Vision and Development Strategy 2030 - a long-term strategy for sustainable development [@slovak_sdg_strategy_2020], has significant cultural component with indicators.
 
 ## Triple Transition Framework
 
@@ -54,13 +54,23 @@ Since the "triple transition" is a top-level and horizontal 🇪🇺 policy   fr
 
 ## Green transition
 
-- The green transition as an opportunity to finance reforms and structural reform, including a competitive reconfiguration of the music industry supply chain.
+The green transition as an opportunity to finance reforms and structural reform, including a competitive reconfiguration of the music industry supply chain.
 
-- `🇸🇰 Dignified culture`: measure and reduce informality to add clarity on value added and its components (personal, mixed, corporate income and tax base) for a sustainable and resilient reconfiguration of policies and the supply chain itself.
+- `🇸🇰 Dignified culture`: measure and reduce informality, value added and its components (personal, mixed, corporate income and tax base) for a sustainable and resilient reform.
 
-- `🇸🇰 Responsible culture`: ESG reporting/sustainable finance compliance of the sector (-> WP3); avoid being locked out of global supply chains by ESG compliance.
+- `🇸🇰 Well-funded culture`: The European Green Deal and connecting private sources offer +Є1 trillion---CCSI well-placed for above-average share.
+
+- `🇸🇰 Responsible culture`: ESG reporting/sustainable finance compliance of the sector; avoid lock-out from global supply chains by ESG compliance.
 
 - `♯ Music economy pillar:` Bring measurement of value added in the value chain to the level of other industries by improving the current satellite accounts.
+
+## Green transition: policy fit
+
+The green transition framework offers policy reconciliation with the Slovak cultural and SDG strategy. 
+
+- indicator candidates from SK Culture
+- indicator candidates from SK SDG
+- our indicator candidates.
 
 ## Social transition
 
@@ -74,6 +84,13 @@ Since the "triple transition" is a top-level and horizontal 🇪🇺 policy   fr
 
 - `♯ Music economy pillar + social sustainability:` Informality has both economic and social aspects, because it is very difficult to ensure that social rights are respected and discrimination is avoided in the informal economy.
 
+## Social transition: policy fit
+
+`Open Music Europe` focuses on the diversity aspects of social sustainability, but our music economy work directly relates to social secturity.
+
+- indicator candidates from SK Culture
+- indicator candidates from SK SDG
+- our indicator candidates.
 
 ## Digital transformation
 
@@ -82,6 +99,12 @@ Since the "triple transition" is a top-level and horizontal 🇪🇺 policy   fr
 - `🇸🇰  2030 Digital Transformation Strategy`: The creative industry, particularly the music industry, is far more digitised than the rest of the Slovak economy, according to the latest DESI assessment. The music industry could be a policy lab to meet the challenges of the Slovak policy. [@desi_slovakia_2022;  @2030_digital_transformation_slovakia_en_2019]
 
 - `♯ Listen Local` Addressing the issues on competitiveness, income, visibility in the era of big data and AI. Building the Slovak Comprehensive Music Industry Database, providing collaborative solutions for SMEs without data engineering/science skills.
+
+## Digital transformation: policy fit
+
+- indicator candidates from SK Culture + SK Digitisation
+- indicator candidates from SK SDG
+- our indicator candidates.
 
 # Session 1 Harmonizing open data and government data programs
 
@@ -101,15 +124,65 @@ Since the "triple transition" is a top-level and horizontal 🇪🇺 policy   fr
 
 - `🇸🇰 satellite accounts upgraded with ♯ Music industry`: 1. Conceptual publication. 2. Creation of music industry variables. 3. SIOT analysis, economic, social, environmental impact assessments, policy scenarios. See: [OPA Repository on novel data collection methods and indicators for the music economy](https://github.com/dataobservatory-eu/report-european-music-economy)
 
+## Indicator candidates (general)
+
+- `Bring music industry to the level of other sectors`: The Slovak statistical system, including the satellite accounts, do not offer actionable indicators for the music industry, and we aim to create at least top-line indicators (GDP and its various income components, employment.)
+
+- `Industry-specific indicators`: Offer indicators make the work of the industry as a whole, and its institutions and organisations work better. Re-use open government data and add own collection.
+
+
+## Indicator candidates: levelling the music industry
+
+- `GVA`, `GDP`, `income components`: Attempt to build up GDP with the help of the `Slovak Music Industry Register`.
+
+- [select some indicators from SK culture]
+
+- [select some indicators from SK SDG]
+
+## Indicator candidates: music-industry specific
+
+- `Local Content Regulation`: Tools to measure the market share and use share of the Slovak repertoire in radio, and attempt to estimate in streaming, TV or other uses with the help of the `Slovak Comprehensive Music Database`.
+
+- [select some indicators indspired from SK culture]
+
+- ESG measurement following CSRD/ESRS focusing on climate change, diversity, limited aspects of governance.
+
 # Session 2 Survey harmonization
 
-## Potential harmonisation of KULT
+## Working with Roč 2-01
 
-## Potential harmonisation with LFS
+Harmonisation with the small enterprises questionnaire Roč 2-01 is perhaps our most immediate goal. This is a low-hangign fruit because we need to harmonise the way the data is collected, not what is collected.
+
+- Ensure that the `Slovak Music Industry Register` allows to filter microdata from relevant enterprises.
+- Ensure on a voluntary basis that additional enterprises fill out the survey from the music industry to allow the creation of music industry indicators.
 
 ## CAP harmonisation
 
+CAP surveys are perhaps the most important data sources for the indicators in the SK Culture Strategy, nevertheless, only one survey has been used for the policy setting.
+
+- Offer the secondary analysis of all CAP surveys conducted in Slovakia since 2004.
+
+- Use the `Open Music Europe` CAP survey to develop indicators that cannot be calculated from pre-existing CAPs in Eurobarometer, AES and LFS, and conducted by SOZA and the industry.
+
+## Potential harmonisation of KULT
+
+???
+
+## Potential harmonisation with LFS
+
+Harmonization with LFS would mainly require filtering and protocol data harmonisation.  
+
+- LFS is a costly and highly standardised survey, and it is unlikely that the main question blocks can be substantially alterred.
+
+- The `Slovak Music Industry Register` and potentially the `Slovak Music Industry Database` could allow the filtering of music industry related data.
+
+- A protocol extension would be required to fill up musician quota on a voluntary basis (it is not likely that LFS has a large-enough musician subsample.)
+
+- The protocol extension requires additional protocol questions on questionnaire to identify 'musician', 'filmmaker', or 'architect'  respondants. The current classifications are not useful for the creative industries.
+
 ## Mixed survey methodology improvements
+
+The music industry itself could be a laboratory to improve mixed surveying because of the very small average enterprise size, and the high level of informality, which makes the mixed use of personal and enterprise surveys.
 
 # Session 3 Listen Local Slovakia
 

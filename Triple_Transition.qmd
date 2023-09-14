@@ -1,6 +1,9 @@
 ---
 title: "Triple Transition"
-format: html
+format: 
+   html: default
+   epub: default
+   docx: default
 author:
    - name: Daniel Antal
      orcid: 0000-0003-1689-0557
@@ -27,7 +30,7 @@ bibliography:
 ::: {.callout-tip}
 ## Edit, comment, question
 
-You can edit this document, make suggestions, or add questions [here](https://github.com/antaldaniel/triple-transition).
+You can edit this document, make suggestions, or add questions [here](https://github.com/antaldaniel/triple-transition). See the accompanying [slides](https://music.dataobservatory.eu/documents/triple-transition/Open_Music_Europe_Workshop_20230921.html#/title-slide).
 
 :::
 
@@ -51,7 +54,7 @@ The **green transition** offers huge investments into restructuring the current 
 
 -   As a result, we hope to see increased personal, company and tax income and increased productivity and competitiveness of the Slovak music industry. This work is almost fully transferable to other CCSIs, particularly copyright-based industries such as film or media.
 
-The **social transition** entails many things, and in Open Music Europe, we chose a few of them which are particularly important for the music industry. The problem of informality, or the prevalence of informal working relations and informal enterprises in music, is relevant for the music economy and its social sustainability because working conditions, social protection and anti-discrimination measures are far more difficult or impossible to monitor and enforce in the informal economy. 
+The **social transition** entails many things, and in Open Music Europe, we chose a few of them which are particularly important for the music industry. The problem of informality, or the prevalence of informal working relations and informal enterprises in music, is relevant for the music economy and its social sustainability because working conditions, social protection and anti-discrimination measures are far more difficult or impossible to monitor and enforce in the informal economy.
 
 -   In the post-Covid economy, often named the "platform economy", the informal work typical in music for at least ten years (since we measure it) appeared outside the cultural sector in many parts of the Slovak economy. Our measurement innovations and proposals are relevant far beyond the scope of the music industry or CCSIs; the music industry can be a laboratory for highly relevant labour or tax policy work.
 
