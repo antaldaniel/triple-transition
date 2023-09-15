@@ -20,7 +20,9 @@ keywords:
   - Open Music Europe
 bibliography:  
   - bib/accesstofinance.bib
+  - bib/antal.bib
   - bib/digitisation.bib
+  - bib/OpenMusE.bib
   - bib/tripletransition.bib
   - bib/slovakia.bib
 ---
@@ -39,13 +41,64 @@ After the COVID-19 pandemic, policymakers in Europe increasingly discuss the str
 
 The "triple transition" is highly relevant to our work because these horizontal policies guide public investment, have new rules on private investment spending, and foresee changes in economic and tax policies. The EU's cultural programme Creative Europe already follows the triple transition framework, and it is relatively easy to imagine the Slovak cultural strategy 2030 in this framework, too, or to map our Open Music Europe research program and its work packages and work tasks in this format.
 
-The triple transition requires policy reforms and investments in structural adjustments. The European Union, through its normal budget and the post-COVID RFF, already committed more than 1 trillion euros over a decade into these investments, and at the same time, changed the rules for private investment, which will channel further private money into this direction.
+We reviewed three Slovak policy documents for our work which are relevant: the sectorial _Stratégia kultúry a kreatívneho priemyslu Slovenskej republiky 2030_ (henceforth: **Slovak CCI Strategy**), the _Slovakia’s Vision and Development Strategy 2030 - a long-term strategy for sustainable development_ [@slovak_sdg_strategy_2020]---henceforth: **Slovak Strategic SDGs**, which has significant cultural elements, and the _2030 Digital Transformation Strategy for Slovakia_ [@2030_digital_transformation_slovakia_en_2019; @2030_digital_transformation_slovakia_sk_2019]--henceforth: **Slovak Digitisation Strategy**, which is highly relevant for the innovation we are doing in Slovakia under the label “Listen Local” in WP2.3.  These documents were made in different years, and they are consistent with the EU policy document of that given year; they show little cross-referencing however within the Slovak documents.  This means that for example, the most dated Slovak Digitisation Strategy is having no reference to the cultural and creative industries at all, but also, the later  _Slovak CCI Strategy_ has very little concrete reference to the SDG policies and no reference to the Slovak Digitisation Strategy. The  _Slovak CCI Strategy_ is a well-designed policy paper, and it is easy to link to the relevant, horizontal SGD and digitisation policies.
+
+The “triple transition” is highly relevant to our work because these horizontal policies guide public investment, have new rules on private investment spending, and foresee changes in economic and tax policies. It immediately connects with the 2nd strategic priority of the  _Slovak CCI Strategy_, **2 Efficiently funded culture** to systematically reduce the infrastructure and modernisation gap, increase the efficiency of the finance management and financing of culture and creative industries, and complement public funding sources with private sources.
+
+
+The following KPIs of this strategic objective are very relevant to our work.
+
+- KPI `2e` Reduction of investment gap in the culture sector compared to investment needs at baseline, which foresees a 640-million-euro excess investment till 2030.
+
+- KPI `2a` Share of value added of culture and creative industries in the value added of the economy, which is projected to grow at a higher rate than the Slovak economy.
+
+- KPIs `2c`, `2d` Share of own revenues, which are expected to grow.
+
+In line with the policy objective of the _Slovak CCI Strategy_, the reduction of the investment gap and a subsequent structural reform that increases revenues and value-added require additional funding outside of the Slovak public treasury. To meet the target value of the outcome indicators, good investments must be made, preferably financed from the EU budget or Recovery and Resilience Facility (RFF) funds or private sources. Since investments take time to increase revenues and value-added, the time is now to participate in the triple transition.
 
 ![Schema of the European Growth Model](jpg/comnat_COM_2022_0083_FIN.ENG.xhtml.COM_2022_0083_FIN_ENG_02002.jpg){fig-align="center"}
 
 The triple transition is an excellent opportunity for the CCSIs, particularly the music industry, to become more competitive, sustainable and resilient. They can more easily meet the requirements for sustainable financing than most industries and turn their previous disadvantage in attracting financing into an advantage. On the public policy level, if we can help the Slovak CCSIs meet the requirements for these massive investments, the Slovak cultural policy can mobilise apart from the limited national public budgets, significant EU public investment and private investment. This way, the means of the current Slovak cultural strategy can be increased.
 
-The **green transition** offers huge investments into restructuring the current service model and supply chain more sustainably. 
+Many horizontal EU measures, ranging from the sustainable finance package to competition and consumer protection rules aim to make more sustainable investments and operations more profitable, and make less sustainable or brown activities less profitable. The Creative Europe program or the RFF facility are already programmed under the triple transition agenda. As a consequence, `Open Music Europe` wants to bring sustainability out of its silo and mainstream it into its music economics research and policy recommendations. 
+
+### Green Transition, Effective Funding, Dignified Culture
+
+The EU **green transition** policy and the _European Green Deal_ offers huge investments into restructuring the current service model and supply chain more sustainably. This is one area where the _Slovak Strategic SDGs_ and the _Slovak CCI Strategy_ should be jointly followed, but not only with a "green eye". 
+
+We do not only connect the _green transition_ with the _Slovak CCI Strategy_ objective `7 Responsible culture`, but also with `2 Effectively funded culture` and `3 A dignified culture`. In line with our own assessment, we believe that CCSIs, and the music industry are no different, creating value in a highly labour-intensive way. They use mainly human input and intellectual property as intangible capital and use less tangible capital than the typical Slovak economic sector. Whether we want to increase the _gross value added_ or the _gross domestic product_, the CCSIs will likely increase the value-added or domestic product via the income generated by their labour, intellectual property and capital investments. Furthermore, because of the sector's high level of informality and fragmentation, persona and mixed-income will contribute more to the value-added and domestic product than corporate income.
+
+Consequently, indicators to help develop and control strategic objective 2 will only work with the employment-focused objective 3. Our _Economy of music in Europe: Novel data collection methods and indicators_ [@antal_et_al_2023] places a huge emphasis on employment and personal income because we believe that it is not only a desirable strategic objective to increase their values, but they are essential to meet the more general funding and value-added targets, too.
+
+Perhaps a bit surprisingly, we place now the following KPIs under the _green transition_ agenda, because we believe that the necessary structural reforms in that area go hand-in-hand with these objectives, strictly in a creative economics point of view. Until 2030 in Europe the most likely financing source to meet the following KPIs is public and private sustainable finance.
+
+- KPI `3a` Share of employment in culture and creative industries in the
+total economy
+- KPI `3b`Number of male and female employees in the cultural and
+creative industry
+Number of self-employed persons in the culture and creative
+industries
+- KPI `3d` Average income in culture and creative industries; number of
+industries lagging behind the national economy average value.
+- KPI `3e` Average wages of professional men and women in the cultural and creative industries as a proportion of the national average wage of university-educated men and women in the national economy
+
+The KPIs that were reviewed so far show a critical missing link in the strategy document and its successful implementation. The KPIs the ministry uses are based on a satellite account, which has a macroeconomic view that none of the cultural sector institutions or creative businesses can relate to directly. The current Slovak satellite accounts do not produce indicators for the music industry, audiovisual industry, film industry, or architecture. However, raising the investment or employment/income component of the GDP requires very different actions in the music industry and architecture, for example.   There are no common institutions, and there are no cross-cutting enterprises that are present in both music and architecture. For a practical translation of the outcome indicators into actionable and measurable steps, we need indicators for the music industry, the film industry, and architecture, just as banking, insurance, or car manufacturing have them.
+
+When discussing our novel approaches to closing the data gaps of the music economy, we are not reinventing the wheel. Our first recommendation is that we need those top-line indicators for the music industry that would come on the top of the head of any policymaker, like share in the GDP or total male and female employment or average wage. We will also suggest a few industry-specific indicators, but mainly not connected to the economy.
+
+Having such indicators is not self-explanatory or easy. Most EU countries still need a cultural satellite account like Slovakia has, and even though Slovakia invested in this tool, it still needs to produce indicators for the music or film industry. However, these indicators could help successful RFF or Creative Europe applications from the music or film industry, which would be required to make successful loans or investment proposals towards private funds. They would be required to make good investments that increase productivity and can lift personal incomes, too.
+
+Our proposals related to the `WP1 Music Economy Pillar` of `Open Music Europe` offer more data management, estimation, and fusion innovations than inventions of new fancy indicators. We suggest a novel public-private partnership that can connect open government data with open science data and invest in a more actionable, usable satellite account system that includes the music industry. We believe that our efforts can be replicated with very little or no cost to other copyright-based industries or often to other service industries, too; in this regard, the music industry can play the role of laboratory to implement data and measurements innovations in the broad CCSI or even the service sectors. These suggestions will be the topic of Session 1.
+
+
+Strategic Priority `7.2` Support the creation, production, dissemination and visibility of sustainable products and projects in the cultural and creative industries should be more emphasised, and we should develop its own indicators (as there is no real KPI addressing this priority.)
+
+
+
+
+
+
+
 
 -   On the level of regulation and technical assistance, we must ensure that the Slovak CCSIs meet the requirements for sustainable financing, particularly the reporting and disclosure rules of the CSRD directive, and we will be developing tools for this in WP3 and WP4 of Open Music Europe. We will be the topic of Session 2.
 
@@ -53,19 +106,58 @@ The **green transition** offers huge investments into restructuring the current 
 
 -   As a result, we hope to see increased personal, company and tax income and increased productivity and competitiveness of the Slovak music industry. This work is almost fully transferable to other CCSIs, particularly copyright-based industries such as film or media.
 
-The **social transition** entails many things, and in Open Music Europe, we chose a few of them which are particularly important for the music industry. The problem of informality, or the prevalence of informal working relations and informal enterprises in music, is relevant for the music economy and its social sustainability because working conditions, social protection and anti-discrimination measures are far more difficult or impossible to monitor and enforce in the informal economy.
+Measuring elements of social sustainability intersect with the economic/labour policy goals of reducing informality at work and increasing the visibility of Slovak culture abroad at home. We will discuss these topics in Session 2 and 3.
 
--   In the post-Covid economy, often named the "platform economy", the informal work typical in music for at least ten years (since we measure it) appeared outside the cultural sector in many parts of the Slovak economy. Our measurement innovations and proposals are relevant far beyond the scope of the music industry or CCSIs; the music industry can be a laboratory for highly relevant labour or tax policy work.
+### Social Transition
 
--   We have an entire work package dedicated to the issue of diversity because diversity is not an important topic in environmental, social and corporate governance reforms. Diversity is a crucial target of cultural policies, for example, by ensuring that Slovak music can be heard on radio or streaming platforms.
+The **social transition** entails many things, and in `Open Music Europe`, we chose a few of them which are particularly important for the music industry. The problem of informality, or the prevalence of informal working relations and informal enterprises in music, is relevant for the music economy and its social sustainability because working conditions, social protection and anti-discrimination measures are far more difficult or impossible to monitor and enforce in the informal economy.
 
--   Measuring elements of social sustainability intersect with the economic/labour policy goals of reducing informality at work and increasing the visibility of Slovak culture abroad at home. We will discuss these topics in Session 2 and 3.
+Under the `WP3 Sustainability pillar`, we want to pilot survey-based indicators that fulfil the requirements set by draft ESRS, the currently drafted European Sustainability Reporting Standards. Like in the case of the economy, most of our innovation is going beyond finding new indicators but finding ways to produce them at scale and a reasonable cost. This requires survey harmonisation and, again, innovation in data production. While ESRS involves the invention of new indicators, the most critical indicators are defined by the standard itself, yet they had never been measured in the Slovak CCSIs.
+
+Regarding KPIs, the _Slovak CCSI Strategy_ in some cases requires separate indicators for women and men, and also involves some objectives for national minorities, and for people with different sexual appearance or with a migration background. Providing impact assessment for these groups is also mandatory under ESRS for the own workforce, for suppliers and affected communities, and they should be creatively harmonized with Cultural Access and Participation surveying and mixed-mode labour force surveying. 
+
+Survey harmonisation is essential to meet the social sustainability measurement challenges, but it is also necessary for measuring demand in our Music economy pillar.  Our project and its background in the CEEMID project have the most to offer to the policymakers in this field.  The  _Slovak CCI Strategy_ document is based on a single Cultural Access and Participation survey, while our project partners have conducted more detailed CAP surveys in Slovakia in 2015 and 2020.  Also, we have developed ways to retrospectively harmonise CAP survey blocks from other EU surveys, such as Eurobarometer, AES and EU-SILC.  Unlike most strategic objectives, strategic objective `6 Respected culture` fully and `7 xxx` partly rely on the current CAP surveying that the Slovak statistical system currently cannot offer.  Our project can provide new measurements and retrospective harmonisation for existing measures going back at least 20 years for the following KPIs.
+
+- `KPI 6a` Active cultural participation of the population/interested artistic activity, reference value from 2015 is 9,3 %. We can offer further history to this KPI, not only artistic activity, but separately for various artisitc activities, such as playing a music instrument, singing or acting.
+- `KPI 6b` Passive cultural participation of the population 59 % (2015); again, we can offer further historic data and new measurements. 
+- `KPI 6c` Public perception of the importance of culture---we have some historic data and we can pilot better measurement.
+- `KPI 6d` Attendance at public collections  3 086 980 (2020); we can offer more historic data and also methodological advise how to better measure this KPI.
+- `KPI 6e` Percentage of citizens with a library card 5,94 % (2020) 17,80 %---we have related data for many years, and we believe that this KPI could be better measured with standardised EU indicators.
+- `KPI 6f` Attendance at performing arts institutions 590 559 (2020)---we could make a case study of the measurement problems and show data not only for music, but various forms of arts.
+- `KPI 6g` Attendance at festivals (theatre, music, film festivals, shows, non professional culture competitions, etc.) 367 923 (2020)---we have ample experience in this field and we could further develop the questionnaire here, because festival- and non-festival like performances are often overlapping.
+- `KPI 6h` Aggregate attendance at cultural institutions 7 799 806 (2021)---we have experience and data to improve this estimate and break it down to cultural sectors.
+- `KPI 7c` Percentage of citizens who trust the media---we can provide a long historical data series for this and we can include it in our measurement.
+- `KPI 7d` Percentage of the population that has no reservations about a
+neighbour from another culture---we can provide a long historical data series for this and we can include it in our measurement.
+- `KPI 7g` Percentage of the population who agree that other people can be---this relates to our earlier experiments (not yet published, low hanging fruit), where we can provide data, generally about the usefulness of moving from a strictly socio-demographic model of CAP surveying to a partly psychometric model. 
+
+_We have experimented with an extended sociology-demography that includes trust and psychometric trait variables, and we can show that, for example, the differences in cultural participation often attributed to gender are caused by specific psychometric properties to be more prevalent among female respondents_.
+
+
+### Digital Transition, Quality Culture, Dignified Culture
 
 The **digital transition** is a crucial European and Slovak policy which so far has been isolated on the Slovak level from the cultural strategy. The official digitisation strategy of Slovakia does not say a single word about the CCSIs and has no cultural or creative industry-specific priorities or actions.
 
--   The creative industry, particularly the music industry, is far more digitised than the rest of the Slovak economy, according to the latest DESI assessment. Since the main sales configuration of music is music- and video streaming on global platforms, the Slovak music industry had to cope with far more accelerated digitisation than the rest of the economy.
+In the post-Covid economy, often named the "platform economy", the informal work typical in music for at least ten years (since we measure it) appeared outside the cultural sector in many parts of the Slovak economy. Our measurement innovations and proposals are relevant far beyond the scope of the music industry or CCSIs; the music industry can be a laboratory for highly relevant labour or tax policy work. Dealing with the problem of informality is very important for the green/economic and social transition, too, and essential to the challenges of digitisation. 
 
--   Our previous research showed that the music industry faced earlier the adverse effects of digitisation, particularly a lack of skills and competitiveness to work with big data, large amounts of data, and various forms of AI. Again, the music industry could be a laboratory of the problems of the Slovak digitisation strategy, particularly the digitisation problems of SMEs (all of the Slovak music industry consists of micro-, small-, and medium-sized enterprises.)
+The main policy of the digital transition on the level of the EU is the  _Digital Europe Programme_[@eu_regulation_2021-694], which also takes up the second largest chunk of the EU and RFF budget after the green transition. The KPIs of this policy are measured in country reports by the European Commission. The country report on Slovakia and its Digital Economy and Society Index (DESI) does not paint a rosy picture [@desi_slovakia_2022]. Slovakia as a country is among the lowest performers in digitisation, which critically threatens the competitiveness of the economy and meeting the Slovak strategic SDG goals. 
+
+Out of the three reviewed Slovak national policies, the most dated one is the _Slovak Digitalisation Strategy_, written in a very optimistic tone in 2019. At the time, the predecessor of our project started the Listen Local Slovakia demonstration project and created our _Feasibility Study On Promoting Slovak Music In Slovakia & Abroad_ [@antal_promoting_slovak_2020; @antal_promoting_slovak_2020-SK]. This music-industry-specific study and demonstration can be seen as an industry-specific experiment meeting the real-life challenges of the digitisation strategy, particularly the digitisation challenges of SMEs. 
+As opposed to the optimistic tone of the _Slovak Digitalisation Strategy_, we had shown that digitisation did not increase; on the contrary, it may have even decreased the competitiveness of the Slovak music industry. Slovak music businesses and individual creators met the digitisation challenges of SMEs earlier than most of the Slovak economy because they had to move their retail sales to global platforms, such as YouTube, Spotify, or Apple, before 2019. On these platforms, sales are almost entirely robotised and driven by AI algorithms. 
+
+As we have shown in 2020, moving to global platforms increased the competition and has driven down prices. At the same time, enormous data skills were needed to collect micropayments. As a result, we showed in 2020 that about 17% of the Slovak repertoire present on global platforms could not even be found due to data problems, and at least 50% of the creators and their businesses missed payments due to data/metadata problems. 
+
+One of the primary motivations for bringing `Open Music Europe` together was that we could not find national funding to continue this critical work that has been used far beyond the music industry; we believe that it could be a testing laboratory for all copyright-based CCSIs, and to many other service industries. Global platforms are in the hands of the world's most giant corporations, which employ an army of data engineers and scientists.  On the other hand, to work with them as equal and not exploited partners, it is not reasonable to expect that every Slovak SME or music business can hire their own data engineer or data scientist. Our main idea with the creation of the Slovak Comprehensive Music Database and Listen Local, and in a broader sense, with the Slovak Music Industry Register, is to initiate national data public-private partnerships and support the Slovak SMEs with data and data know-how to meet collectively the challenges of the digital economy.
+
+Apart from the contribution to the earlier mentioned goals to an effectively funded and a dignified culture (which collects a larger share of own revenues and able to finance its sustainable growth) this project element can also contribute to the hard-to measure indicators in strategic objective `4 Quality culture` and `5 Inclusive culture`.  
+
+-  `KPI 4g` Share of culture and creative industries exports in total exports.
+-  `KPI 4e`  Number of works or authors who have been successful in
+international competitions (cultural heritage, literature, audiovisual
+and design)
+-  `KPI 5d` Share of broadcasting for national minorities in public service media---this should be made together with measuring Slovak shares in local public and private broadcast media and streaming ('radio quotas') and in export markets, too; the situation of Slovak music abroad, and often even at home is rather similar to the national minorities, because the majority of music used in commercial media is foreigh.
+
+-   The creative industry, particularly the music industry, is far more digitised than the rest of the Slovak economy, according to the latest DESI assessment. Since the main sales configuration of music is music- and video streaming on global platforms, the Slovak music industry had to cope with far more accelerated digitisation than the rest of the economy.
 
 -   The creation of the planned Slovak Comprehensive Music Database, the Slovak Music Industry Register, and our Listen Local program offer a way to simultaneously deal with significant cultural and digitisation policy challenges. We want to redesign the local content policies (i.e., radio quotas) for broadcasters to global streaming platforms to ensure a visible presence for Slovak music both within Slovakia and abroad.
 
@@ -166,12 +258,6 @@ In the European music industry, there is a vocal demand for respecting diversity
 
 -   Stratégia kultúry a kreatívneho priemyslu Slovenskej republiky 2030. \[Strategy of the cultural and creative industries of the Slovak Republic 2030.\] [@slovak_cci_strategy_2023]
 
-```{=html}
-<!-- -->
-```
--   2030 Digital Transformation Strategy for Slovakia [@2030_digital_transformation_slovakia_en_2019; 2030_digital_transformation_slovakia_sk_2019]
+-   2030 Digital Transformation Strategy for Slovakia [@2030_digital_transformation_slovakia_en_2019; @2030_digital_transformation_slovakia_sk_2019]
 
-```{=html}
-<!-- -->
-```
 -   Slovakia's Vision and Development Strategy 2030 - a long-term strategy for sustainable development [@slovak_sdg_strategy_2020]
