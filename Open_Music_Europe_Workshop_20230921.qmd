@@ -2,6 +2,8 @@
 title: "Open Music Europe Bratislava Stakeholder Consultation 2023"
 format: 
    revealjs:
+      logo: jpg/OME.jpg
+      footer: "Open Music Europe"
       theme: [default, custom.scss]
 editor: visual
 bibliography:  
@@ -29,14 +31,22 @@ Session 3: [Listen Local Slovakia](Open_Music_Europe_Workshop_20230921.html#/lis
 
 🌆 Informal dinner (optional)
 
-# Triple Transition 
+# Open Music Europe
 
+This will be replaced with a graphic slide
+
+::: {style="font-size: 0.6em; text-align: justify"}
+Funded by the European Union under Grant No. [101095295](https://cordis.europa.eu/project/id/101095295). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Commission’s Citizens, Equality, Rights and Values Programme. Neither the European Union nor the granting authority can be held responsible for them
+:::
+
+
+![](png/openmuse_logos.png)
+
+# Triple Transition
 
 You can find the background notes [here](https://music.dataobservatory.eu/documents/triple-transition/Triple_Transition.html).
 
 You can edit this presentation, make suggestions, or add questions [here](https://github.com/antaldaniel/triple-transition) (also to the background notes and the [Reader](https://music.dataobservatory.eu/documents/triple-transition/Triple_Transition.html#reader).)
-
-
 
 ## Triple transition
 
@@ -48,7 +58,7 @@ You can edit this presentation, make suggestions, or add questions [here](https:
 
 ## Triple Transition Framework
 
-Since the "triple transition" is a top-level and horizontal 🇪🇺 policy   framework, we can also discuss the 🇸🇰 cultural strategy (together with other horizontal policies, such as the sustainable development and  digitisation strategy) in a shared framework with the EU policies.
+Since the "triple transition" is a top-level and horizontal 🇪🇺 policy framework, we can also discuss the 🇸🇰 cultural strategy (together with other horizontal policies, such as the sustainable development and digitisation strategy) in a shared framework with the EU policies.
 
 ![Schema of the European Growth Model](jpg/comnat_COM_2022_0083_FIN.ENG.xhtml.COM_2022_0083_FIN_ENG_02002.jpg){fig-align="center"}
 
@@ -56,113 +66,122 @@ Since the "triple transition" is a top-level and horizontal 🇪🇺 policy   fr
 
 The green transition as an opportunity to finance reforms and structural reform, including a competitive reconfiguration of the music industry supply chain.
 
-- `🇸🇰 Dignified culture`: measure and reduce informality, value added and its components (personal, mixed, corporate income and tax base) for a sustainable and resilient reform.
+-   `🇸🇰 Dignified culture`: measure and reduce informality, value added and its components (personal, mixed, corporate income and tax base) for a sustainable and resilient reform.
 
-- `🇸🇰 Well-funded culture`: The European Green Deal and connecting private sources offer +Є1 trillion---CCSI well-placed for above-average share.
+-   `🇸🇰 Well-funded culture`: The European Green Deal and connecting private sources offer +Є1 trillion---CCSI well-placed for above-average share.
 
-- `🇸🇰 Responsible culture`: ESG reporting/sustainable finance compliance of the sector; avoid lock-out from global supply chains by ESG compliance.
+-   `🇸🇰 Responsible culture`: ESG reporting/sustainable finance compliance of the sector; avoid lock-out from global supply chains by ESG compliance.
 
-- `♯ Music economy pillar:` Bring measurement of value added in the value chain to the level of other industries by improving the current satellite accounts.
+-   `♯ Music economy pillar:` Bring measurement of value added in the value chain to the level of other industries by improving the current satellite accounts.
 
 ## Green transition: policy fit
 
-The green transition framework offers policy reconciliation with the Slovak cultural and SDG strategy. 
+The green transition framework offers policy reconciliation with the Slovak cultural and SDG strategy.
 
-- indicator candidates from SK Culture
-- indicator candidates from SK SDG
-- our indicator candidates.
+-   indicator candidates from SK Culture
+-   indicator candidates from SK SDG
+-   our indicator candidates.
 
 ## Social transition
 
-- Diversity as an important pillar of social sustainability, good corporate governance, and cultural policy goals (such as radio quotas).
+-   Diversity as an important pillar of social sustainability, good corporate governance, and cultural policy goals (such as radio quotas).
 
-- `🇸🇰 Inclusive culture`: The music industry remains inclusive: diversity of the own workforce of music.
+-   `🇸🇰 Inclusive culture`: The music industry remains inclusive: diversity of the own workforce of music.
 
-- `🇸🇰 Responsible culture`: Music and the CCI have data collection plans, indicators, tools to meet CSRD/ESRS standards. Diversity in affected communities (education, local ecosystems, audience.)
+-   `🇸🇰 Responsible culture`: Music and the CCI have data collection plans, indicators, tools to meet CSRD/ESRS standards. Diversity in affected communities (education, local ecosystems, audience.)
 
-- `🇸🇰 Respected culture`: we want to ensure that Slovak music is visible, which is also an economic aim (music earns money based on visibility.)
+-   `🇸🇰 Respected culture`: we want to ensure that Slovak music is visible, which is also an economic aim (music earns money based on visibility.)
 
-- `♯ Music economy pillar + social sustainability:` Informality has both economic and social aspects, because it is very difficult to ensure that social rights are respected and discrimination is avoided in the informal economy.
+-   `♯ Music economy pillar + social sustainability:` Informality has both economic and social aspects, because it is very difficult to ensure that social rights are respected and discrimination is avoided in the informal economy.
 
 ## Social transition: policy fit
 
 `Open Music Europe` focuses on the diversity aspects of social sustainability, but our music economy work directly relates to social secturity.
 
-- indicator candidates from SK Culture
-- indicator candidates from SK SDG
-- our indicator candidates.
+-   indicator candidates from SK Culture
+-   indicator candidates from SK SDG
+-   our indicator candidates.
 
 ## Digital transformation
 
-- `🇪🇺  Digital Europe`: does not include CCSI at all, even though according to the DESI 2022 the Slovak economy, and particularly SMEs are far behind in digitisation compared to the music industry. [@eu_regulation_2021-694]
+-   `🇪🇺  Digital Europe`: does not include CCSI at all, even though according to the DESI 2022 the Slovak economy, and particularly SMEs are far behind in digitisation compared to the music industry. [@eu_regulation_2021-694]
 
-- `🇸🇰  2030 Digital Transformation Strategy`: The creative industry, particularly the music industry, is far more digitised than the rest of the Slovak economy, according to the latest DESI assessment. The music industry could be a policy lab to meet the challenges of the Slovak policy. [@desi_slovakia_2022;  @2030_digital_transformation_slovakia_en_2019]
+-   `🇸🇰  2030 Digital Transformation Strategy`: The creative industry, particularly the music industry, is far more digitised than the rest of the Slovak economy, according to the latest DESI assessment. The music industry could be a policy lab to meet the challenges of the Slovak policy. [@desi_slovakia_2022; @2030_digital_transformation_slovakia_en_2019]
 
-- `♯ Listen Local` Addressing the issues on competitiveness, income, visibility in the era of big data and AI. Building the Slovak Comprehensive Music Industry Database, providing collaborative solutions for SMEs without data engineering/science skills.
+-   `♯ Listen Local` Addressing the issues on competitiveness, income, visibility in the era of big data and AI. Building the Slovak Comprehensive Music Industry Database, providing collaborative solutions for SMEs without data engineering/science skills.
 
 ## Digital transformation: policy fit
 
-- indicator candidates from SK Culture + SK Digitisation
-- indicator candidates from SK SDG
-- our indicator candidates.
+-   indicator candidates from SK Culture + SK Digitisation
+-   indicator candidates from SK SDG
+-   our indicator candidates.
 
 # Session 1 Harmonizing open data and government data programs
 
 ## Data infrastructure
 
-- `♯ Open Policy Analysis Guidelines + FAIR = Data PPP`: Create a complementing (open, voluntary) statistical program besides the Slovak national data program.
+-   `♯ Open Policy Analysis Guidelines + FAIR = Data PPP`: Create a complementing (open, voluntary) statistical program besides the Slovak national data program.
 
-- `♯ Slovak Music Industry Register`: enable the satellite accounts to produce indicators for the music industry (and later other industries), necessary for filtering administrative data sources as well as survey microdata. 
+-   `♯ Slovak Music Industry Register`: enable the satellite accounts to produce indicators for the music industry (and later other industries), necessary for filtering administrative data sources as well as survey microdata.
 
-- `♯ Survey harmonisation`: Harmonisation of KULT with European standard surveys, potential harmonisation of LFS, AES, etc with our industry surveys ➡️ Session 2, survey harmonisation in more detail.
+-   `♯ Survey harmonisation`: Harmonisation of KULT with European standard surveys, potential harmonisation of LFS, AES, etc with our industry surveys ➡️ Session 2, survey harmonisation in more detail.
 
-- `♯ Slovak Comprehensive Music Database`: enable the monitoring of Slovak radio quotas and other cultural policies ➡️ Listen Local, Session 3 in more detail. 
+-   `♯ Slovak Comprehensive Music Database`: enable the monitoring of Slovak radio quotas and other cultural policies ➡️ Listen Local, Session 3 in more detail.
+
+## Open Policy Analysis
+
+![](webp/OPA_slide.webp){.absolute bottom=0 width=800 }
+
+## Open Government Data & Open Science Data
+
+![](jpg/wp1_schema.jpg)
 
 ## Data infrastructure: potential case studies, small projects
 
-- `🇸🇰 statistical data program + ♯ Open Music Europe Data Management Plan`: could be a best practice in open data and open science. 1. Conceptual publication. 2. Use case with actual data collected in 2024/2025. See: [OPA Repository on Data Management](https://github.com/dataobservatory-eu/open-music-europe-data-management-plan)
+-   `🇸🇰 statistical data program + ♯ Open Music Europe Data Management Plan`: could be a best practice in open data and open science. 1. Conceptual publication. 2. Use case with actual data collected in 2024/2025. See: [OPA Repository on Data Management](https://github.com/dataobservatory-eu/open-music-europe-data-management-plan)
 
-- `🇸🇰 satellite accounts upgraded with ♯ Music industry`: 1. Conceptual publication. 2. Creation of music industry variables. 3. SIOT analysis, economic, social, environmental impact assessments, policy scenarios. See: [OPA Repository on novel data collection methods and indicators for the music economy](https://github.com/dataobservatory-eu/report-european-music-economy)
+-   `🇸🇰 satellite accounts upgraded with ♯ Music industry`: 1. Conceptual publication. 2. Creation of music industry variables. 3. SIOT analysis, economic, social, environmental impact assessments, policy scenarios. See: [OPA Repository on novel data collection methods and indicators for the music economy](https://github.com/dataobservatory-eu/report-european-music-economy)
 
 ## Indicator candidates (general)
 
-- `Bring music industry to the level of other sectors`: The Slovak statistical system, including the satellite accounts, do not offer actionable indicators for the music industry, and we aim to create at least top-line indicators (GDP and its various income components, employment.)
+-   `Bring music industry to the level of other sectors`: The Slovak statistical system, including the satellite accounts, do not offer actionable indicators for the music industry, and we aim to create at least top-line indicators (GDP and its various income components, employment.)
 
-- `Industry-specific indicators`: Offer indicators make the work of the industry as a whole, and its institutions and organisations work better. Re-use open government data and add own collection.
-
+-   `Industry-specific indicators`: Offer indicators make the work of the industry as a whole, and its institutions and organisations work better. Re-use open government data and add own collection.
 
 ## Indicator candidates: levelling the music industry
 
-- `GVA`, `GDP`, `income components`: Attempt to build up GDP with the help of the `Slovak Music Industry Register`.
+-   `GVA`, `GDP`, `income components`: Attempt to build up GDP with the help of the `Slovak Music Industry Register`.
 
-- [select some indicators from SK culture]
+-   \[select some indicators from SK culture\]
 
-- [select some indicators from SK SDG]
+-   \[select some indicators from SK SDG\]
 
 ## Indicator candidates: music-industry specific
 
-- `Local Content Regulation`: Tools to measure the market share and use share of the Slovak repertoire in radio, and attempt to estimate in streaming, TV or other uses with the help of the `Slovak Comprehensive Music Database`.
+-   `Local Content Regulation`: Tools to measure the market share and use share of the Slovak repertoire in radio, and attempt to estimate in streaming, TV or other uses with the help of the `Slovak Comprehensive Music Database`.
 
-- [select some indicators indspired from SK culture]
+-   \[select some indicators indspired from SK culture\]
 
-- ESG measurement following CSRD/ESRS focusing on climate change, diversity, limited aspects of governance.
+-   ESG measurement following CSRD/ESRS focusing on climate change, diversity, limited aspects of governance.
 
 # Session 2 Survey harmonization
 
-## Working with Roč 2-01
-
-Harmonisation with the small enterprises questionnaire Roč 2-01 is perhaps our most immediate goal. This is a low-hangign fruit because we need to harmonise the way the data is collected, not what is collected.
-
-- Ensure that the `Slovak Music Industry Register` allows to filter microdata from relevant enterprises.
-- Ensure on a voluntary basis that additional enterprises fill out the survey from the music industry to allow the creation of music industry indicators.
+## Ex ante and ex post survey harmonisation
 
 ## CAP harmonisation
 
 CAP surveys are perhaps the most important data sources for the indicators in the SK Culture Strategy, nevertheless, only one survey has been used for the policy setting.
 
-- Offer the secondary analysis of all CAP surveys conducted in Slovakia since 2004.
+-   Offer the secondary analysis of all CAP surveys conducted in Slovakia since 2004.
 
-- Use the `Open Music Europe` CAP survey to develop indicators that cannot be calculated from pre-existing CAPs in Eurobarometer, AES and LFS, and conducted by SOZA and the industry.
+-   Use the `Open Music Europe` CAP survey to develop indicators that cannot be calculated from pre-existing CAPs in Eurobarometer, AES and LFS, and conducted by SOZA and the industry.
+
+## Working with Roč 2-01
+
+Harmonisation with the small enterprises questionnaire Roč 2-01 is perhaps our most immediate goal. This is a low-hangign fruit because we need to harmonise the way the data is collected, not what is collected.
+
+-   Ensure that the `Slovak Music Industry Register` allows to filter microdata from relevant enterprises.
+-   Ensure on a voluntary basis that additional enterprises fill out the survey from the music industry to allow the creation of music industry indicators.
 
 ## Potential harmonisation of KULT
 
@@ -170,15 +189,15 @@ CAP surveys are perhaps the most important data sources for the indicators in th
 
 ## Potential harmonisation with LFS
 
-Harmonization with LFS would mainly require filtering and protocol data harmonisation.  
+Harmonization with LFS would mainly require filtering and protocol data harmonisation.
 
-- LFS is a costly and highly standardised survey, and it is unlikely that the main question blocks can be substantially alterred.
+-   LFS is a costly and highly standardised survey, and it is unlikely that the main question blocks can be substantially alterred.
 
-- The `Slovak Music Industry Register` and potentially the `Slovak Music Industry Database` could allow the filtering of music industry related data.
+-   The `Slovak Music Industry Register` and potentially the `Slovak Music Industry Database` could allow the filtering of music industry related data.
 
-- A protocol extension would be required to fill up musician quota on a voluntary basis (it is not likely that LFS has a large-enough musician subsample.)
+-   A protocol extension would be required to fill up musician quota on a voluntary basis (it is not likely that LFS has a large-enough musician subsample.)
 
-- The protocol extension requires additional protocol questions on questionnaire to identify 'musician', 'filmmaker', or 'architect'  respondants. The current classifications are not useful for the creative industries.
+-   The protocol extension requires additional protocol questions on questionnaire to identify 'musician', 'filmmaker', or 'architect' respondants. The current classifications are not useful for the creative industries.
 
 ## Mixed survey methodology improvements
 
@@ -186,34 +205,55 @@ The music industry itself could be a laboratory to improve mixed surveying becau
 
 # Session 3 Listen Local Slovakia
 
+## Listen Local Slovakia: History
+
+:::: {.columns}
+
+::: {.column width="33.33%"}
+1. Hotels & Restaurants
+:::
+
+::: {.column width="33.33%"}
+2. Radio & Streaming (Demo App)
+:::
+
+::: {.column width="33.34%"}
+3. Feasibility Study 
+:::
+
+::::
+
+![](webp/listen_local_slovakia_publication.webp){.absolute bottom=0 left=0}
+
 ## Listen Local Slovakia
 
-- `♯ Listen Local Feasibility Study and Demo`: In 2020 we had shown how local content policies could be implemented in the streaming platform, and how we could support a better digitisation of the sector. We created the `Slovak Demo Music Database`.
+-   `♯ Listen Local Feasibility Study and Demo`: In 2020 we had shown how local content policies could be implemented in the streaming platform, and how we could support a better digitisation of the sector. We created the `Slovak Demo Music Database`.
 
--  `🇸🇰 Slovak Comprehensive Music Database`: A Linked Open Data resource that supports rights management, music export, archiving and preservation goals.
+-   `🇸🇰 Slovak Comprehensive Music Database`: A Linked Open Data resource that supports rights management, music export, archiving and preservation goals.
 
--  Support data exchange with global databases, streaming providers, international archives and libraries and rights management organisations.
+-   Support data exchange with global databases, streaming providers, international archives and libraries and rights management organisations.
+
+- ([download](https://music.dataobservatory.eu/publication/listen_local_2020/))
 
 ## Problems
 
-- `🇸🇰  2030 Digital Transformation Strategy` microenterprise and individuals must collect micropayments from hundreds of global platforms---we see that up to 50% of the revenues are not collected. Digitisation of the rights management and payments infrastructure is a huge challenge for any SME, including music businesses.
+-   `🇸🇰  2030 Digital Transformation Strategy` microenterprise and individuals must collect micropayments from hundreds of global platforms---we see that up to 50% of the revenues are not collected. Digitisation of the rights management and payments infrastructure is a huge challenge for any SME, including music businesses.
 
-- Accute shortage of data engineering/science skills: it is not reasonable to expect that all music/CCSI businesses can work with an in-house data engineer or scientist, this makes them vulnerable to global platforms and data companies like Google (owns YouTube and Android payments platform), Apple (owns Apple Music, hardware/payments platform)
+-   Accute shortage of data engineering/science skills: it is not reasonable to expect that all music/CCSI businesses can work with an in-house data engineer or scientist, this makes them vulnerable to global platforms and data companies like Google (owns YouTube and Android payments platform), Apple (owns Apple Music, hardware/payments platform)
 
 ## Connecting National Data Collection
 
-- `🇸🇰  Synchronize data development`: Synchronise the current and future needs of rights management organisations, libraries and public archives.
+-   `🇸🇰  Synchronize data development`: Synchronise the current and future needs of rights management organisations, libraries and public archives.
 
--  Pilot with SOZA, Hudobné centrum and Hudobny Fond.
+-   Pilot with SOZA, Hudobné centrum and Hudobny Fond.
 
-- Open for Slovak music publishers, music labels, festivals, music promoters.
-
+-   Open for Slovak music publishers, music labels, festivals, music promoters.
 
 ## Global Connection
 
-- `🌐 🇸🇰  Synchronize data development`: Synchronise automatically global archives, libraries, rights management, MusicBrainz, Wikidata, and other standardised Linked Open Data on the "internet of data" layer of the internet.
+-   `🌐 🇸🇰  Synchronize data development`: Synchronise automatically global archives, libraries, rights management, MusicBrainz, Wikidata, and other standardised Linked Open Data on the "internet of data" layer of the internet.
 
--  Pilot with SOZA, Hudobné centrum and Hudobny Fond.
+-   Pilot with SOZA, Hudobné centrum and Hudobny Fond.
 
 ## Demo Applications
 

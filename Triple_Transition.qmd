@@ -2,8 +2,8 @@
 title: "Triple Transition"
 format: 
    html: default
-   epub: default
    docx: default
+   epub: default
 author:
    - name: Daniel Antal
      orcid: 0000-0003-1689-0557
@@ -79,14 +79,54 @@ The **digital transition** is a crucial European and Slovak policy which so far 
 
 ## Session 2: Survey Harmonization (Dr James Rhys Edwards) {#session2}
 
+-  What is ex ante and ex post harmonisation?
+
+- CAP offer
+
+- KULT
+
+- Roč 2-01 and Working with Roč 1-01
+
 -   What type of individual and enterprise, mixed surveys are planned? [Economy of music in Europe: Novel data collection methods and indicators](https://music.dataobservatory.eu/documents/open_music_europe/economy/report/report.html#survey-data)
 
 -   Which surveys do we want to harmonize and how?
 
 ## Session 3: Comprehensive Slovak Music Database, Listen Local (Tomaš Mikš) {#session3}
 
--   Slovak Music Industry Register (in non-technical terms)
--   Comprehensive Slovak Music Industry Database (in non-technical terms)
+Our long-standing Listen Local project was one of the most immediate predecessors of the Open Music Europe project, which grew out of various CEEMID initiatives where we felt that we needed greater European cooperation and a more significant grant to progress.
+
+Listen Local was initially intended to ensure that more local content is being played in restaurants and hotels. For example, if you walk into your favourite café in Bratislava, there is a chance that Slovak will hear Slovak music---and we do not have to send the royalties that are paid by your favourite cafe abroad. Or, if you walk into a restaurant in Košice, there is a chance that you hear some music from Košice. Local people and visitors can listen to local music; the money is not sent abroad or to Bratislava.
+
+When the global streaming platforms appeared in the region, first in Hungary and Czechia, then in Slovakia and Bulgaria, after the initial euphoria of changing from piracy to a paid platform, local labels realised that these platforms would offer to the audience in both Bratislava and Košice music from abroad---mainly about 50 cities of the world out of which none is to be found within the European Union. Around this time, Slovakia introduced mandatory quotas for radios to leave some space for Slovak music.
+
+In 2020, we attempted to consolidate these objectives into a comprehensive program that would help the musicians in Bratislava or Košice to be heard in restaurants, on the radio and streaming platforms. With a microgrant from the Slovak Arts Council, we developed the idea of a goal-based music recommender system and a supporting database, the Slovak Comprehensive Music Database. The resulting Feasibility Study and demo application is the basis of our diversity work package in Open Music Europe.
+
+There are two main problems with the simple quota regulation:
+It may reduce interest in Slovak music if not the appropriate Slovak music is added to the expected playlist of the listener.
+The radio editor, or the algorithm that creates the Spotify playlist, does not know what "Slovak music" is. Our demo application solved this with only 4,000 songs: we created an app allowing users to log in with their Spotify account. It changed the weekly recommendation of Spotify--- based on the user's taste--- with a desired number of Slovak music, with or without Slovak lyrics.
+
+We envisioned at least three applications:
+
+1. An app which takes a pre-defined list, which maybe a radio station's summer rotation list, a restaurant's own playlist, or a Spotify or Deezer user's personal playlist, and adds relevant and fitting Slovak music to it.
+
+2. An application that works in general education and playfully helps music discovery. Starting from the child's favourite music, under parental and/or educator supervision, it walks the child through music from Bratislava and Košice, Czechia and Hungary, Europe, or back in time, touching on the national repertoire that the study program requires to familiarise with. 
+
+3. An application that helps a musician, label or publisher find out which radio or streaming playlist or in which European country and city their music would most likely fit.
+
+While designing this application, we analysed how global streaming platforms and their algorithms developed by Google, Apple and Spotify are recommending music. Contrary to general belief, they use the user's listening history for recommendations and much information about the music and the artist's biography. We also realised that they only recommend Slovak music if they find information about this music online. And what is worse, if they see or misunderstand information about a Slovak artist, they may recommend the artist's music in a completely inappropriate context, for example, in Thailand, where listeners will immediately shut off the music, giving it an adverse listening history and muting it forever. The algorithm will think that this is "bad music". 
+
+We see two cultural policy problems here that link to the issues of the digitisation agenda in general. First, unless we control and ensure that correct data is available on the "internet of data"  layer of the Internet, where the computers of YouTube, Spotify, Wikipedia, and MusicBrainz talk to each other, we are at the mercy of their robots. It is better to create a correct Slovak Comprehensive Music Database and put it on the "Internet of data". Second, as we can see from the DESI scores of Slovakia, it cannot be expected that a small music label that is releasing new classical music with one person or a self-releasing artist can hire a data engineer to work on the "internet of data"  layer of the Internet. This is the task of a national organisation or a national music library. Working with big data and interacting with YouTube or ChatGPT algorithms is impossible for a Slovak SME. Unless we take back control of the data they use and give meaningful data infrastructure support, Slovak music SMEs will lose their market in the digital space and not gain new ones.
+
+What we try to build in Open Music Europe is directly useful for the Slovak music industry, but we believe that with very little modification, it could be useful for Slovak writers, filmmakers and other creators who are increasingly present in the digital space. As a next step, our framework and toolset, not Listen Local, can also be an essential case study on how to make the _Slovak Digitisation Strategy_ more tangible in other sectors, particularly for SMEs, where, according to the DESI assessment, Slovakia is lagging behind Europe.
+
+### Fit with the Slovak CCI Strategy
+
+### Fit with the Slovak Digitisation Agenda
+
+### Lessons for Statisticians
+
+
+
 
 ## Background Information
 
